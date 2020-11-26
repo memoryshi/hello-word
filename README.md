@@ -1,2 +1,8 @@
-# hello-world
-你好，世界呀
+#include <stdio.h>
+
+int main()
+{
+cout<<"Hello World"<<endl;
+
+ return 0;
+}
